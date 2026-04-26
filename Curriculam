@@ -1,0 +1,383 @@
+🟢 BEGINNER LEVEL (Foundational Algorithms)
+Basic Sorting (Start Here)
+
+Bubble Sort
+Selection Sort
+Insertion Sort
+
+Basic Searching
+
+Linear Search
+Binary Search (iterative)
+Binary Search (recursive)
+
+Basic Recursion
+
+Factorial calculation
+Fibonacci (recursive)
+Power calculation (recursive)
+Sum of digits
+Reverse a number
+
+Basic Array Algorithms
+
+Find maximum/minimum
+Reverse an array
+Rotate array
+Remove duplicates from sorted array
+Two pointer technique (basic)
+
+Basic String Algorithms
+
+Reverse a string
+Check palindrome
+String matching (naive)
+Anagram check
+Character frequency count
+
+Basic Math
+
+Check prime number
+GCD (Euclidean Algorithm)
+LCM calculation
+Check power of 2
+Count digits
+
+Basic Bit Manipulation
+
+Check if bit is set
+Set/unset/toggle a bit
+Count set bits (basic loop)
+XOR properties (swap numbers)
+
+
+🟡 INTERMEDIATE LEVEL
+Advanced Sorting
+
+Merge Sort
+Quick Sort
+Heap Sort
+Counting Sort
+Radix Sort
+Bucket Sort
+
+Advanced Searching
+
+Jump Search
+Interpolation Search
+Exponential Search
+Ternary Search
+Binary search on answer
+
+Linked List Algorithms
+
+Reverse linked list (iterative)
+Reverse linked list (recursive)
+Detect cycle (Floyd's algorithm)
+Find middle element
+Merge two sorted lists
+Remove nth node from end
+Palindrome linked list check
+
+Stack Algorithms
+
+Balanced parentheses
+Next greater element
+Stock span problem
+Infix to postfix conversion
+Evaluate postfix expression
+Min stack implementation
+Largest rectangle in histogram
+
+Queue Algorithms
+
+Implement queue using stacks
+Implement stack using queues
+Circular queue
+Sliding window maximum
+First non-repeating character in stream
+
+Hashing Algorithms
+
+Two sum problem
+Subarray with given sum
+Longest subarray with sum K
+Count distinct elements
+First repeating element
+Union and intersection of arrays
+
+Basic Tree Algorithms
+
+Inorder traversal (recursive)
+Preorder traversal (recursive)
+Postorder traversal (recursive)
+Level order traversal (BFS)
+Height of binary tree
+Diameter of binary tree
+Check if tree is balanced
+Maximum path sum
+Lowest common ancestor
+
+Binary Search Tree
+
+Search in BST
+Insert in BST
+Delete from BST
+Validate BST
+Kth smallest in BST
+Inorder successor/predecessor
+Convert sorted array to BST
+
+Basic Graph Algorithms
+
+BFS (Breadth First Search)
+DFS (Depth First Search)
+Detect cycle in undirected graph (DFS)
+Detect cycle in directed graph (DFS)
+Number of connected components
+Check if graph is bipartite
+Number of islands
+Clone a graph
+
+Greedy Algorithms (Basic)
+
+Activity selection problem
+Fractional knapsack
+Minimum platforms needed
+Job sequencing problem
+Huffman coding (basic)
+
+Basic Dynamic Programming
+
+Fibonacci (DP - memoization)
+Fibonacci (DP - tabulation)
+Climbing stairs
+House robber
+Min cost climbing stairs
+Maximum subarray sum (Kadane's algorithm)
+Coin change (minimum coins)
+Coin change (number of ways)
+Longest increasing subsequence (O(n²))
+0/1 Knapsack
+Unbounded knapsack
+Subset sum problem
+Partition equal subset sum
+Rod cutting problem
+
+Two Pointers (Advanced)
+
+Container with most water
+Three sum
+Four sum
+Trapping rain water
+Remove duplicates from sorted array II
+Dutch national flag (3-way partition)
+
+Sliding Window
+
+Maximum sum subarray of size K
+Longest substring without repeating characters
+Longest substring with K distinct characters
+Minimum window substring
+Longest repeating character replacement
+
+Backtracking (Basic)
+
+Generate all subsets
+Generate all permutations
+Generate all combinations
+Letter combinations of phone number
+Palindrome partitioning
+Combination sum
+
+
+🔴 ADVANCED LEVEL
+Advanced Tree Algorithms
+
+Morris traversal (inorder)
+Morris traversal (preorder)
+Serialize and deserialize binary tree
+Binary tree from inorder and preorder
+All nodes at distance K
+Burn tree from leaf
+Vertical order traversal
+Boundary traversal
+Diagonal traversal
+
+Trie Algorithms
+
+Insert in trie
+Search in trie
+Delete from trie
+Longest common prefix using trie
+Word search II
+Auto-complete system
+Replace words
+
+Heap / Priority Queue
+
+Kth largest element
+Kth smallest element
+Merge K sorted lists
+Median from data stream
+Top K frequent elements
+Reorganize string
+Task scheduler
+
+Advanced Graph Algorithms
+
+Dijkstra's algorithm (shortest path)
+Bellman-Ford algorithm
+Floyd-Warshall algorithm
+Prim's algorithm (MST)
+Kruskal's algorithm (MST)
+Topological sort (Kahn's algorithm)
+Topological sort (DFS)
+Kosaraju's algorithm (SCC)
+Tarjan's algorithm (SCC)
+Bridges in graph
+Articulation points
+Eulerian path (Hierholzer's algorithm)
+Hamiltonian path/cycle
+A* algorithm
+Bidirectional search
+0-1 BFS
+
+Union-Find (Disjoint Set)
+
+Union-find basic
+Union by rank
+Path compression
+Detect cycle using union-find
+Number of provinces
+Accounts merge
+
+Advanced Dynamic Programming
+
+Longest common subsequence (LCS)
+Longest common substring
+Edit distance (Levenshtein)
+Distinct subsequences
+Longest palindromic subsequence
+Longest palindromic substring
+Word break
+Word break II
+Matrix chain multiplication
+Egg dropping problem
+Optimal binary search tree
+Partition DP
+Box stacking
+Building bridges
+Longest increasing subsequence O(n log n)
+Russian doll envelopes
+Maximum length of pair chain
+DP on trees
+DP with bitmask
+Travelling salesman problem (DP)
+Digit DP
+
+String Algorithms (Advanced)
+
+KMP algorithm (pattern matching)
+Rabin-Karp algorithm
+Z algorithm
+Manacher's algorithm (longest palindrome)
+Boyer-Moore algorithm
+Aho-Corasick algorithm
+Suffix array construction
+LCP array (Kasai's algorithm)
+Rolling hash
+Longest repeated substring
+
+Segment Tree
+
+Build segment tree
+Range query (sum/min/max)
+Point update
+Range update (lazy propagation)
+Range update range query
+
+Binary Indexed Tree (Fenwick Tree)
+
+Build BIT
+Point update
+Range sum query
+2D BIT
+
+Advanced Bit Manipulation
+
+Count set bits (Brian Kernighan)
+Find single number (XOR variants)
+Find two non-repeating numbers
+Subset generation using bits
+Gray code generation
+Reverse bits
+Gosper's hack
+
+Advanced Backtracking
+
+N-Queens problem
+Sudoku solver
+Rat in a maze
+Knight's tour
+M-coloring problem
+Word search
+Expression add operators
+Remove invalid parentheses
+
+Advanced Mathematical Algorithms
+
+Sieve of Eratosthenes
+Segmented sieve
+Binary exponentiation
+Modular exponentiation
+Modular multiplicative inverse
+Extended Euclidean algorithm
+Chinese remainder theorem
+Euler's totient function
+Miller-Rabin primality test
+Pollard's rho factorization
+Fast Fourier transform (FFT)
+Matrix exponentiation
+Gaussian elimination
+Convex hull (Graham scan)
+Convex hull (Jarvis march)
+
+Network Flow
+
+Ford-Fulkerson algorithm
+Edmonds-Karp algorithm
+Dinic's algorithm
+Max bipartite matching
+Hungarian algorithm
+
+Game Theory
+
+Nim game
+Minimax algorithm
+Alpha-beta pruning
+Sprague-Grundy theorem
+
+
+🟣 EXPERT LEVEL (Optional for FAANG)
+
+Heavy-light decomposition
+Centroid decomposition
+Suffix tree construction
+Suffix automaton
+Aho-Corasick automaton
+Persistent segment tree
+Treap
+Splay tree
+Link-cut tree
+Mo's algorithm
+Square root decomposition
+Convex hull trick
+Li Chao tree
+Alien's trick (binary search on DP)
+Meet in the middle
+Inclusion-exclusion principle
+Burnside's lemma
+Kirchhoff's theorem
+Fast Walsh-Hadamard transform
+Berlekamp-Massey algorithm
